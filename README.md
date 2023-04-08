@@ -14,6 +14,7 @@
 - ⚡ Known and worked fields **Digital Content Creation(Image , Audio , Video)**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.instagram.com/itsclashgod/">Insta</a>
 <p align="left">
 </p>
 
