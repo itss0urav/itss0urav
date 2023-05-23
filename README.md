@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sourav2021official@gmail.com**
 
-- ⚡ Known and worked fields **Digital Content Creation(Image , Audio , Video)**
+- ⚡ Hobby **Digital Content Creation(Image , Audio , Video)**
 
 <h3 align="left">Connect with me:</h3>
 <h4><a href="https://www.instagram.com/itsclashgod/">📷Instagram</a></h4>
