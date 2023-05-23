@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="itss0urav" /> </p>
 
-- 🔭 I’m currently working on the project [Anywhere](https://github.com/itss0urav/Anywhere-frontend)
-
 - 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itss0urav](https://github.com/itss0urav)
