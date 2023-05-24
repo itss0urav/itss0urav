@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="itss0urav" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itss0urav](https://github.com/itss0urav)
 
