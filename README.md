@@ -12,7 +12,7 @@
 - ⚡ Hobby **Digital Content Creation(Image , Audio , Video)**
 
 <h3 align="left">Familiar Adobe Softwares:</h3>
-<ul>
+<ul color="red">
 <li>Adobe Premiere Pro</li>
 <li>Adobe Photoshop</li>
 <li>Adobe After Effects</li>
