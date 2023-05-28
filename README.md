@@ -5,15 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
+<h2 align="center">🌱 Currently learning MERN Stack</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animated Coding GIF" height="250"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Code Animation" width="500" height="280">
 </p>
 
+<p align="center">
+  <samp>I am a passionate web developer with a keen interest in creating dynamic and interactive web applications. I love to explore new technologies and constantly learn to enhance my skills.</samp>
+</p>
 
-- 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/itss0urav)
-- 📫 How to reach me: sourav2021official@gmail.com
-- ⚡ Hobbies: Digital Content Creation (Image, Audio, Video)
+<p align="center">
+  <samp>Feel free to connect with me or check out my projects on GitHub.</samp>
+</p>
 
 <h3 align="left">Familiar Adobe Software:</h3>
 <ul>
@@ -42,3 +46,6 @@
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
 </p>
 
+<p align="center">
+  <samp>Let's build amazing web experiences together!</samp>
+</p>
