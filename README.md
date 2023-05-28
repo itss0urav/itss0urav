@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-
+</p>
 
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/itss0urav)
@@ -36,4 +36,4 @@
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
 </p>
-</p>
+
