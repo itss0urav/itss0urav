@@ -3,8 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif">
 </p>
-<img align="center" src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif">
+
 <h2 align="center">🌱 Currently learning MERN Stack</h2>
 
 <p align="center">
