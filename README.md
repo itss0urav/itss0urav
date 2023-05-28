@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-<img src="https://en.bloggif.com/tmp/0cbae5c81b8440fb25043cfe2138ac5c/text.gif?1685285440">
+<img src="[https://en.bloggif.com/tmp/0cbae5c81b8440fb25043cfe2138ac5c/text.gif?1685285440](https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif?width=350&height=312)">
 <h2 align="center">🌱 Currently learning MERN Stack</h2>
 
 <p align="center">
