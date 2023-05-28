@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YmVNz5vtgRZHxjRf1e/giphy.gif" alt="Coding GIF" height="250"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animated Coding GIF" height="250"/>
 </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/itss0urav)
@@ -41,6 +42,3 @@
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animated Coding GIF" height="250"/>
-</p>
