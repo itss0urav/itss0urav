@@ -11,6 +11,10 @@
 
 - ⚡ Hobby **Digital Content Creation(Image , Audio , Video)**
 
+-Adobe Premiere Pro
+-Adobe Photoshop
+-Adobe After Effects
+
 <h3 align="left">Connect with me:</h3>
 <h4><a href="https://www.instagram.com/itsclashgod/">📷Instagram</a></h4>
 <p align="left">
