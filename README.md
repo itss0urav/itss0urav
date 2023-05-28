@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/YmVNz5vtgRZHxjRf1e/giphy.gif" alt="Coding GIF" height="250"/>
+</p>
+
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/itss0urav)
 - 📫 How to reach me: sourav2021official@gmail.com
@@ -37,3 +41,6 @@
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animated Coding GIF" height="250"/>
+</p>
