@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif">
+
 </p>
 
 <h2 align="center">🌱 Currently learning MERN Stack</h2>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <samp>Feel free to connect with me or check out my projects on GitHub.</samp>
+  <samp>Feel free to connect with me or check out my projects on GitHub.</samp>  <img src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif">
 </p>
 
 <h3 align="left">Familiar Adobe Software:</h3>
