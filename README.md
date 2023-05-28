@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif"></h1>
+<h1 align="center"><img src="https://media.discordapp.net/attachments/979241917852303370/1112398341951725691/Vanilla-1s-285px.gif?width=356&height=177"></h1>
 <h3 align="center">A passionate web developer from Kerala, India</h3>
 
 <p align="center">
