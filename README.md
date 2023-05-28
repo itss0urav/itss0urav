@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav S</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif"></h1>
 <h3 align="center">A passionate web developer from Kerala, India</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <samp>Feel free to connect with me or check out my projects on GitHub.</samp>  <img src="https://media.discordapp.net/attachments/979241917852303370/1112396408356606094/Vanilla-1s-280px.gif">
+  <samp>Feel free to connect with me or check out my projects on GitHub.</samp>  
 </p>
 
 <h3 align="left">Familiar Adobe Software:</h3>
