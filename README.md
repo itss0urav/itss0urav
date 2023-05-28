@@ -1,9 +1,8 @@
-<h1 align="center"><img src="https://media.discordapp.net/attachments/979241917852303370/1112398341951725691/Vanilla-1s-285px.gif?width=356&height=177"></h1>
+<h1 align="center"><img src="https://media.discordapp.net/attachments/979241917852303370/1112399216027906139/Vanilla-1s-285px_1.gif?width=356&height=177"></h1>
 <h3 align="center">A passionate web developer from Kerala, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-
 </p>
 
 <h2 align="center">🌱 Currently learning MERN Stack</h2>
