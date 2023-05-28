@@ -10,11 +10,11 @@
 - 📫 How to reach me **sourav2021official@gmail.com**
 
 - ⚡ Hobby **Digital Content Creation(Image , Audio , Video)**
-
--Adobe Premiere Pro
--Adobe Photoshop
--Adobe After Effects
-
+<ul>
+<li>Adobe Premiere Pro</li>
+<li>Adobe Photoshop</li>
+<li>Adobe After Effects</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <h4><a href="https://www.instagram.com/itsclashgod/">📷Instagram</a></h4>
 <p align="left">
