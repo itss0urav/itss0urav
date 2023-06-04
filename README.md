@@ -20,7 +20,7 @@
 </p>
 <div align="center">
 <h3 align="left">Familiar Adobe Software:</h3>
-<ul>
+<ul align="center">
   <li>Adobe Premiere Pro</li>
   <li>Adobe Photoshop</li>
   <li>Adobe After Effects</li>
