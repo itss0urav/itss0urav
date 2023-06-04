@@ -18,14 +18,14 @@
 <p align="center">
   <samp>Feel free to connect with me or check out my projects on GitHub.</samp>  
 </p>
-<div align="center">
-<h3 align="left">Familiar Adobe Software:</h3>
-<ul align="center">
+
+<h3>Familiar Adobe Software:</h3>
+<ul>
   <li>Adobe Premiere Pro</li>
   <li>Adobe Photoshop</li>
   <li>Adobe After Effects</li>
 </ul>
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
