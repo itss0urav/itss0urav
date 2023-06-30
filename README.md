@@ -51,35 +51,20 @@
 <p align="center">
     I'm actively seeking new opportunities and connections in the web
     development industry.
-  </p>
-  <p class="connectWrap">
-    <a href="https://www.instagram.com/itsclashgod/"
-      ><img
-        src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
-        alt="Instagram"
-      />
+</p>
+<p class="connectWrap">
+    <a href="https://www.instagram.com/itsclashgod/"><img
+            src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
+            alt="Instagram" />
     </a>
-    <br />
-    <a
-      href="https://www.linkedin.com/in/itssourav/"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
+    <a href="https://www.linkedin.com/in/itssourav/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white"
+            alt="LinkedIn" />
     </a>
-    <br />
-    <a
-      href="https://github.com/itss0urav"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
-        alt="GitHub"
-      />
+
+    <a href="https://github.com/itss0urav" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+            alt="GitHub" />
     </a>
 </p>
 
