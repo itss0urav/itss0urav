@@ -62,10 +62,6 @@
             alt="LinkedIn" />
     </a>
 
-    <a href="https://github.com/itss0urav" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
-            alt="GitHub" />
-    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
