@@ -52,7 +52,7 @@
     I'm actively seeking new opportunities and connections in the web
     development industry.
 </p>
-<p class="connectWrap">
+<p align="center">
     <a href="https://www.instagram.com/itsclashgod/"><img
             src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
             alt="Instagram" />
