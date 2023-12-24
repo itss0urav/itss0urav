@@ -11,7 +11,7 @@
 <h2 align="center">🌱 Currently learning MERN Stack</h2>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Code Animation" width="500" height="280">
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Code Animation" width="500" height="280">
 </p>
 
 <p align="center">
