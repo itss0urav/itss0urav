@@ -109,8 +109,8 @@
     <a href="https://nodejs.org"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="Node.js" width="40" height="40"></a>
-    <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="Firebase" width="40" height="40"></a>
+<!--     <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="Firebase" width="40" height="40"></a> -->
     <a href="https://chat.openai.com/"><img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png"
             alt="ChatGPT" width="40" height="40" /></a>
