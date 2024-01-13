@@ -22,47 +22,6 @@
 <p align="center">
     <samp>Feel free to connect with me or check out my projects on GitHub.</samp>
 </p>
-<p align="center">
-<h3>Familiar Adobe Software:</h3>
-<ul>
-        <li>
-<!--               Adobe Premiere Pro -->
-              <a href="https://www.adobe.com/in/products/premiere.html"
-                ><img
-                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png"
-                  alt="Adobe Premiere Pro"
-                  width="40"
-                  height="40"
-              /></a>
-            </li>
-            <li>
-<!--               Adobe Photoshop -->
-              <a href="https://www.adobe.com/in/products/photoshop.html"
-                ><img
-                  src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg"
-                  alt="Adobe Photoshop"
-                  width="40"
-                  height="40"
-              /></a>
-            </li>
-            <li>
-<!--               Adobe After Effects -->
-              <a href="https://www.adobe.com/in/products/aftereffects.html"
-                ><img
-                  src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg"
-                  alt="Adobe After Effects"
-                  width="40"
-                  height="40"
-              /></a>
-            </li>
-</ul>
-    
-
-   
- 
-   
-
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -114,6 +73,47 @@
     <a href="https://chat.openai.com/"><img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png"
             alt="ChatGPT" width="40" height="40" /></a>
+</p>
+<p align="center">
+<h3>Familiar Adobe Software:</h3>
+<ul>
+        <li>
+<!--               Adobe Premiere Pro -->
+              <a href="https://www.adobe.com/in/products/premiere.html"
+                ><img
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png"
+                  alt="Adobe Premiere Pro"
+                  width="40"
+                  height="40"
+              /></a>
+            </li>
+            <li>
+<!--               Adobe Photoshop -->
+              <a href="https://www.adobe.com/in/products/photoshop.html"
+                ><img
+                  src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg"
+                  alt="Adobe Photoshop"
+                  width="40"
+                  height="40"
+              /></a>
+            </li>
+            <li>
+<!--               Adobe After Effects -->
+              <a href="https://www.adobe.com/in/products/aftereffects.html"
+                ><img
+                  src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg"
+                  alt="Adobe After Effects"
+                  width="40"
+                  height="40"
+              /></a>
+            </li>
+</ul>
+    
+
+   
+ 
+   
+
 </p>
 
 <p align="center">
