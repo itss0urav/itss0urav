@@ -26,7 +26,7 @@
 <h3>Familiar Adobe Software:</h3>
 <ul>
         <li>
-              Adobe Premiere Pro
+<!--               Adobe Premiere Pro -->
               <a href="https://www.adobe.com/in/products/premiere.html"
                 ><img
                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png"
@@ -36,7 +36,7 @@
               /></a>
             </li>
             <li>
-              Adobe Photoshop
+<!--               Adobe Photoshop -->
               <a href="https://www.adobe.com/in/products/photoshop.html"
                 ><img
                   src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg"
@@ -46,7 +46,7 @@
               /></a>
             </li>
             <li>
-              Adobe After Effects
+<!--               Adobe After Effects -->
               <a href="https://www.adobe.com/in/products/aftereffects.html"
                 ><img
                   src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg"
