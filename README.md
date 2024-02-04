@@ -1,21 +1,19 @@
 <h1 align="center"><img
         src="https://media.discordapp.net/attachments/979241917852303370/1112399216027906139/Vanilla-1s-285px_1.gif?width=356&height=177">
 </h1>
-<h3 align="center">A passionate web developer from Kerala, India</h3>
+<h3 align="center">Full Stack Web Developer from Kerala, India</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat"
         alt="Profile views" />
 </p>
 
-<h2 align="center">🌱 Currently learning MERN Stack</h2>
-
 <p align="center">
     <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Code Animation" width="500" height="280">
 </p>
 
 <p align="center">
-    <samp>I am a passionate web developer with a keen interest in creating dynamic and interactive web applications. I
+    <samp>I am a full stack web developer with a keen interest in creating dynamic and interactive web applications. I
         love to explore new technologies and constantly learn to enhance my skills.</samp>
 </p>
 
