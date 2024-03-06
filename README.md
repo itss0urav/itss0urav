@@ -71,6 +71,9 @@
     <a href="https://chat.openai.com/"><img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png"
             alt="ChatGPT" width="40" height="40" /></a>
+    <a href="https://vitejs.dev/"><img
+            src="https://vitejs.dev/logo-with-shadow.png"
+            alt="Vite" width="40" height="40" /></a>
 </p>
 <p align="center">
 <h3>Familiar Adobe Software:</h3>
