@@ -76,7 +76,7 @@
             alt="Vite" width="40" height="40" /></a>
     <a href="https://jwt.io/"><img
             src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png"
-            alt="Vite" width="40" height="40" /></a>
+            alt="jwt" width="40" height="40" /></a>
 </p>
 <p align="center">
 <h3>Familiar Adobe Software:</h3>
