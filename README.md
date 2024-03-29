@@ -54,6 +54,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="JavaScript" width="40" height="40"></a>
+    <a href="https://www.typescriptlang.org/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="TypeScript" width="40" height="40"></a>
     <a href="https://www.mongodb.com/"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="MongoDB" width="40" height="40"></a>
