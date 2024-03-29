@@ -49,6 +49,8 @@
             alt="CSS3" width="40" height="40"></a>
     <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
             alt="Tailwind CSS" width="40" height="40"></a>
+    <a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+            alt="Tailwind CSS" width="40" height="40"></a>
     <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"
             width="40" height="40"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
