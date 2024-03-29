@@ -55,7 +55,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="JavaScript" width="40" height="40"></a>
     <a href="https://www.typescriptlang.org/"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
             alt="TypeScript" width="40" height="40"></a>
     <a href="https://www.mongodb.com/"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
