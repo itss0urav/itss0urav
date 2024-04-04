@@ -1,4 +1,3 @@
-<h2>Hi I'm Sourav</h2>
 <h1 align="center"><img
         src="https://media.discordapp.net/attachments/979241917852303370/1112399216027906139/Vanilla-1s-285px_1.gif?width=356&height=177">
 </h1>
