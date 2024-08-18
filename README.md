@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/itssourav/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h3 align="center">🛠️ Tech Arsenal 🛠️</h3>
+<h3 align="center">🛠️ Tech  🛠️</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git" alt="Tech Stack">
@@ -45,7 +45,7 @@
 <h3 align="center">🎨 Adobe Creative Suite 🎨</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ae,pr" alt="Adobe Creative Suite">
+  <img src="https://skillicons.dev/icons?i=ps,pr" alt="Adobe Creative Suite">
 </p>
 
 <h3 align="center">🌟 Featured Projects 🌟</h3>
