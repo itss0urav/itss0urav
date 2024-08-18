@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/979241917852303370/1112399216027906139/Vanilla-1s-285px_1.gif?width=356&height=177" alt="Sourav's Logo">
 </h1>
 
-<h3 align="center">Innovative Full Stack Web Developer | Kerala, India 🌴</h3>
+<h3 align="center">Innovative Full Stack Web Developer | From India 🌴</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
