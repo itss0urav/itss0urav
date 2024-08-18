@@ -48,15 +48,6 @@
   <img src="https://skillicons.dev/icons?i=ps,pr" alt="Adobe Creative Suite">
 </p>
 
-<h3 align="center">🌟 Featured Projects 🌟</h3>
-
-
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itss0urav&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
 
