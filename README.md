@@ -28,7 +28,7 @@
 <h3 align="center">🛠️ Tech  🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,ps" alt="Tech Stack">
 </p>
 
 <p align="center">
@@ -41,13 +41,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40">
 </p>
-
-<h3 align="center">🎨 Adobe Creative Suite 🎨</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr" alt="Adobe Creative Suite">
-</p>
-
 
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
 
