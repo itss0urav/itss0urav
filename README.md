@@ -10,7 +10,7 @@
 
 <p align="center">
 <!--   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Code Animation" width="500" height="280"> -->
-  <img src="https://i.gifer.com/fxVE.gif" alt="Code Animation" width="500" height="500">
+  <img src="https://i.gifer.com/origin/fa/fa9e27a7534060df383ab54354fcead3_w200.webp" alt="Code Animation" width="500" height="500">
 </p>
 
 <p align="center">
