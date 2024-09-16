@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,firebase,postman" alt="Additional Tools">
+  <img src="https://skillicons.dev/icons?i=vite,yarn,postman" alt="Additional Tools">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT" width="40" height="40">
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40">
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="40" height="40">
