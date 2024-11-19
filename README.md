@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/979241917852303370/1112399216027906139/Vanilla-1s-285px_1.gif?width=356&height=177" alt="Sourav's Logo">
 </h1>
 
-<h3 align="center">Full Stack Web Developer | From India 🌴</h3>
+<h3 align="center">Senior Full Stack Engineer | AWS Cloud Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
@@ -14,9 +14,24 @@
 
 <p align="center">
   <samp>
-    Passionate about crafting seamless, cutting-edge web experiences. Always exploring new technologies and pushing the boundaries of what's possible in web development.
+    Full Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at NOMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
   </samp>
 </p>
+
+### 🎯 Key Projects
+
+- **NOMS Multi-Tenant Office Management System**: Built with React, TypeScript, and AWS services
+- **Q-GET**: Financial Gateway platform integrating multiple providers
+- **Sparring Player**: Sports platform connecting athletes using AWS infrastructure
+- **PREMIUM**: Modern interior design platform with advanced animations
+- **N-OMS**: Office Management System with Docker and Redis integration
+
+### 💻 Technical Expertise
+
+- **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Ant Design
+- **Backend**: Node.js, Express.js, MongoDB, Redis, Docker
+- **Cloud**: AWS (S3, Cognito, CloudFront, DynamoDB)
+- **Tools**: Git, GitHub, Vite, Yarn, Postman, Docker
 
 <h3 align="center">🚀 Let's Connect and Innovate! 🚀</h3>
 
@@ -25,7 +40,7 @@
   <a href="https://www.linkedin.com/in/itssourav/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h3 align="center">🛠️ Tech  🛠️</h3>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,ps" alt="Tech Stack">
@@ -49,5 +64,5 @@
 </p>
 
 <p align="center">
-  <samp>Transforming ideas into reality, one line of code at a time. Let's build the future of the web together! 🚀✨</samp>
+  <samp>Building scalable solutions and transforming business challenges into elegant code. Open to collaboration and exciting opportunities! 💻✨</samp>
 </p>
