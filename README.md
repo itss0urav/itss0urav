@@ -14,17 +14,52 @@
 
 <p align="center">
   <samp>
-    Full Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at NOMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
+    Full Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at N-OMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
   </samp>
 </p>
 
-### 🎯 Key Projects
+### 🎯 Featured Projects
 
-- **NOMS Multi-Tenant Office Management System**: Built with React, TypeScript, and AWS services
-- **Q-GET**: Financial Gateway platform integrating multiple providers
-- **Sparring Player**: Sports platform connecting athletes using AWS infrastructure
-- **PREMIUM**: Modern interior design platform with advanced animations
-- **N-OMS**: Office Management System with Docker and Redis integration
+#### 🌟 Flagship Applications
+
+- **[Premium Interiors](https://premiuminteriordesigns.in)** - Transform your vision into beautifully designed spaces that inspire and elevate everyday living.  
+  *Tech Stack:* React, AWS
+
+- **[Sparring Player](https://www.sparringplayer.com)** - Your go-to platform for booking and interacting with top sports players and academies.  
+  *Tech Stack:* React, Node.js, MongoDB, AWS
+
+- **[Q-GET](https://www.q-get.in/)** - Your one-stop financial gateway offering credit cards, loans, and insurance solutions.  
+  *Tech Stack:* React, Node.js, AWS, MongoDB
+
+- **[Agent Scout](https://www.agentscout.in/)** - AgentScout helps you scout, discover, and connect with top-tier talent effortlessly.  
+  *Tech Stack:* React, Node.js, MongoDB, AWS
+
+### 💼 Complete Project Portfolio
+
+#### Financial Services
+- **[Quality Bullion](https://www.qualitybullionllp.com/)** - Premium quality investment-grade precious metals with transparent pricing
+- **[Bank Seva Kendra](https://www.banksevakendra.com/)** - Best loan offers from public sector banks with hassle-free processing
+
+#### Sports & Fitness
+- **[The Ring Reachers](https://www.theringreachers.com/)** - Nurturing Potential, Forging Champions in Basketball and Beyond
+
+#### Design & Events
+- **[Floral Glory](https://www.floral-glory.in/)** - Crafting enchanting weddings and memorable event decorations
+
+#### Healthcare & Education
+- **[UltraMedHealth](https://www.ultramedhealthcare.com/)** - Premium continuing medical education for healthcare professionals
+
+#### Travel & Hospitality
+- **[La Fortuna](https://d1b88eem2r2ks4.cloudfront.net/)** - Discover authentic Kerala through curated luxury experiences
+
+#### E-commerce & Retail
+- **[Paadamudra Weaves](https://www.paadamudraweaves.com/)** - Exquisite handwoven sarees blending traditional craftsmanship with contemporary elegance
+- **[Twins Generation](https://www.twinsgeneration.com/)** - One-stop shop for your office needs
+- **[Shiv Shakti Traders](https://d1cohf11yg4jza.cloudfront.net/)** - Premium construction materials and hardware solutions
+
+#### Community & Services
+- **[PKS](https://www.poonakeralasamajam.co.in/)** - Poona Keraleeya Samaj - A beacon of cultural unity and social service
+- **[VPCHA](https://www.vpcha.info/)** - Seamless cargo handling and transportation services for Vizhinjam International Seaport
 
 ### 💻 Technical Expertise
 
