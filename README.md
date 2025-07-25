@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/979241917852303370/1112399216027906139/Vanilla-1s-285px_1.gif?width=356&height=177" alt="Sourav's Logo">
 </h1>
 
-<h3 align="center">Senior Full Stack Engineer 🚀</h3>
+<h3 align="center">Senior Cloud Stack Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itss0urav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
@@ -14,52 +14,127 @@
 
 <p align="center">
   <samp>
-    Full Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at N-OMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
+    Cloud Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at NOMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
   </samp>
 </p>
 
-### 🎯 Featured Projects
+---
 
-#### 🌟 Flagship Applications
+## 🚀 **My Projects**
 
-- **[Premium Interiors](https://premiuminteriordesigns.in)** - Transform your vision into beautifully designed spaces that inspire and elevate everyday living.  
-  *Tech Stack:* React, AWS
+<div align="center">
 
-- **[Sparring Player](https://www.sparringplayer.com)** - Your go-to platform for booking and interacting with top sports players and academies.  
-  *Tech Stack:* React, Node.js, MongoDB, AWS
+*Building digital solutions across industries* 
 
-- **[Q-GET](https://www.q-get.in/)** - Your one-stop financial gateway offering credit cards, loans, and insurance solutions.  
-  *Tech Stack:* React, Node.js, AWS, MongoDB
+</div>
 
-- **[Agent Scout](https://www.agentscout.in/)** - AgentScout helps you scout, discover, and connect with top-tier talent effortlessly.  
-  *Tech Stack:* React, Node.js, MongoDB, AWS
+---
 
-### 💼 Complete Project Portfolio
+<table>
+<tr>
+<td width="50%">
 
-#### Financial Services
-- **[Quality Bullion](https://www.qualitybullionllp.com/)** - Premium quality investment-grade precious metals with transparent pricing
-- **[Bank Seva Kendra](https://www.banksevakendra.com/)** - Best loan offers from public sector banks with hassle-free processing
+### 🎨 **Design & Interior**
+> [`Premium Interiors`](https://premiuminteriordesigns.in)  
+> Transform spaces into inspiring environments  
+> `React` `AWS`
 
-#### Sports & Fitness
-- **[The Ring Reachers](https://www.theringreachers.com/)** - Nurturing Potential, Forging Champions in Basketball and Beyond
+> [`Floral Glory`](https://www.floral-glory.in/)  
+> Enchanting weddings & event decorations  
+> `React` `Node.js` `AWS`
 
-#### Design & Events
-- **[Floral Glory](https://www.floral-glory.in/)** - Crafting enchanting weddings and memorable event decorations
+</td>
+<td width="50%">
 
-#### Healthcare & Education
-- **[UltraMedHealth](https://www.ultramedhealthcare.com/)** - Premium continuing medical education for healthcare professionals
+### 💰 **Financial Solutions**
+> [`Q-GET`](https://www.q-get.in/)  
+> One-stop financial gateway platform  
+> `React` `Node.js` `MongoDB` `AWS`
 
-#### Travel & Hospitality
-- **[La Fortuna](https://d1b88eem2r2ks4.cloudfront.net/)** - Discover authentic Kerala through curated luxury experiences
+> [`Quality Bullion`](https://www.qualitybullionllp.com/)  
+> Premium precious metals investment  
+> `React` `Node.js` `AWS`
 
-#### E-commerce & Retail
-- **[Paadamudra Weaves](https://www.paadamudraweaves.com/)** - Exquisite handwoven sarees blending traditional craftsmanship with contemporary elegance
-- **[Twins Generation](https://www.twinsgeneration.com/)** - One-stop shop for your office needs
-- **[Shiv Shakti Traders](https://d1cohf11yg4jza.cloudfront.net/)** - Premium construction materials and hardware solutions
+> [`Bank Seva Kendra`](https://www.banksevakendra.com/)  
+> Hassle-free loan processing services  
+> `React` `Node.js` `AWS`
 
-#### Community & Services
-- **[PKS](https://www.poonakeralasamajam.co.in/)** - Poona Keraleeya Samaj - A beacon of cultural unity and social service
-- **[VPCHA](https://www.vpcha.info/)** - Seamless cargo handling and transportation services for Vizhinjam International Seaport
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏃 **Sports & Fitness**
+> [`Sparring Player`](https://www.sparringplayer.com)  
+> Connect with top athletes & academies  
+> `React` `Node.js` `MongoDB` `AWS`
+
+> [`The Ring Reachers`](https://www.theringreachers.com/)  
+> Basketball training & championship  
+> `React` `Node.js`
+
+</td>
+<td width="50%">
+
+### 👥 **Talent & Community**
+> [`Agent Scout`](https://www.agentscout.in/)  
+> Discover & connect with top talent  
+> `React` `Node.js` `MongoDB` `AWS`
+
+> [`PKS`](https://www.poonakeralasamajam.co.in/)  
+> Kerala cultural unity platform  
+> `React` `Node.js` `AWS`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 **E-commerce & Retail**
+> [`Paadamudra Weaves`](https://www.paadamudraweaves.com/)  
+> Handwoven sarees collection  
+> `React` `Node.js` `AWS`
+
+> [`Twins Generation`](https://www.twinsgeneration.com/)  
+> Office supplies marketplace  
+> `React` `Node.js` `MongoDB`
+
+> [`Shiv Shakti Traders`](https://d1cohf11yg4jza.cloudfront.net/)  
+> Construction materials & hardware  
+> `React` `Node.js` `AWS`
+
+</td>
+<td width="50%">
+
+### 🏥 **Healthcare & Travel**
+> [`UltraMedHealth`](https://www.ultramedhealthcare.com/)  
+> Medical education for professionals  
+> `React` `Node.js` `AWS`
+
+> [`La Fortuna`](https://d1b88eem2r2ks4.cloudfront.net/)  
+> Authentic Kerala luxury experiences  
+> `React` `Node.js` `AWS`
+
+### 🚢 **Logistics**
+> [`VPCHA`](https://www.vpcha.info/)  
+> Cargo handling & transportation  
+> `React` `Node.js` `AWS`
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 💻 Technical Expertise
 
