@@ -14,7 +14,7 @@
 
 <p align="center">
   <samp>
-    Cloud Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at NOMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
+    Cloud Stack Engineer with expertise in React, TypeScript, and Node.js. Specialized in building scalable web applications and integrating AWS services. Currently working at N-OMS, developing multi-tenant office management systems and leading technical initiatives for enterprise solutions.
   </samp>
 </p>
 
